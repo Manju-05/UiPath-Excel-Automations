@@ -1,0 +1,10 @@
+{
+  "$schema": "https://cloud.uipath.com/draft/2024-12/entry-point",
+  "entryPoints": [
+    {
+      "filePath": "WorkBook Activities.xaml",
+      "uniqueId": "9437ea27-6732-4e27-b703-16138a1eeee6",
+      "type": "process"
+    }
+  ]
+}

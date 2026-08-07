@@ -1,0 +1,6 @@
+{
+  "Name": "Excel Automations",
+  "ProjectType": "Process",
+  "Description": "Excel Automations",
+  "MainFile": "WorkBook Activities.xaml"
+}
